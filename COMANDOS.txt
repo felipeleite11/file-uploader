@@ -1,0 +1,7 @@
+start frontend: C:\ProjetosNode\FileUploader\frontend & npm start (dentro da pasta frontend)
+
+start backend: C:\ProjetosNode\FileUploader\backend & npm run dev -OU- npm start (dentro da pasta backend)
+
+start mongodb: mongod
+
+start mongodb CLI: mongo
